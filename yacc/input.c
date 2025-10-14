@@ -1,6 +1,0 @@
-main()
-{
-	int a, b, c, x, y;
-	a = b + c;
-}
-
